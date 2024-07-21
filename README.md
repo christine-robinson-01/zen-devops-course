@@ -1,3 +1,3 @@
-# guvi-zen-devops
+# zen-devops-course
 
-Guvi Zen DevOps Course - Assignments &amp; Assessments
+Zen DevOps Course - Assignments &amp; Assessments

@@ -1,6 +1,8 @@
-# Task 1
+# File Creation Task
 
-**Step 1:** Create "my_folder" directory &amp; navigate into it.
+## Task 1
+
+### Create "my_folder" directory &amp; navigate into it
 
 ```bash
 # List files
@@ -21,7 +23,7 @@ pwd
 
 ![Output 1](./output01.PNG)
 
-**Step 2:** Create "my_file.txt" with some text...
+### Create "my_file.txt" with some text
 
 ```bash
 # List files
@@ -42,7 +44,7 @@ cat my_file.txt
 
 ![Output 2](./output02.PNG)
 
-**Step 3:** Create "another_file.txt" with some text...
+### Create "another_file.txt" with some text
 
 ```bash
 # List files
@@ -63,7 +65,7 @@ cat another_file.txt
 
 ![Output 3](./output03.PNG)
 
-**Step 4:** Concatenate the content of "another_file.txt" to "my_file.txt" and display the updated content
+### Concatenate the content of "another_file.txt" to "my_file.txt" and display the updated content
 
 ```bash
 # List files
@@ -78,7 +80,7 @@ cat my_file.txt
 
 ![Output 4](./output04.PNG)
 
-**Step 5:** Finally, list all files and directories in the current directory
+### Finally, list all files and directories in the current directory
 
 ```bash
 # List files

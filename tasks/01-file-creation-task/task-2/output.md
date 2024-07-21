@@ -1,4 +1,6 @@
-# Task 2
+# File Creation Task
+
+## Task 2
 
 **Step 1:** Create 20 files with ".txt" extension
 
