@@ -6,16 +6,18 @@
 
 2. Create **20** files with **.txt** extensions and rename the first **5** files to **.yml** extension and print the latest created top **5** files among the total no of files".
 
-## Tech stacks needs to be used
+### Tech stacks needs to be used
 
 > Shell (AWS, Git bash, WSL, Vbox)
+
+---
 
 ### How do I submit my work?
 
 Push all your work files to GitHub (O/P screenshot images must).
 Submit your URLs in the portal.
 
-### Terms and Conditions?
+### Terms and Conditions
 
 * You agree to not share this confidential document with anyone.
 * You agree to open-source your code (it may even look good on your profile!). Do not mention our company’s name anywhere in the code.
