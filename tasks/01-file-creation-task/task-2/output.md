@@ -9,16 +9,9 @@
 mkdir files
 cd files
 
-# Print the present working directory
-pwd
-
-# List files
-ls -l
-
 # Create 20 files with ".txt" extension
-for i in {1..20}
-do
- if [ $i -le 9 ]; then
+for i in {1..20}; do
+  if [ $i -le 9 ]; then
     touch "file0${i}.txt"
   else
     touch "file${i}.txt"
@@ -29,15 +22,14 @@ done
 ls -l
 ```
 
-![Output 1.1](./output01-1.PNG)
+![Output 1.1](./output01-1.png)
 
-![Output 1.2](./output01-2.PNG)
+![Output 1.2](./output01-2.png)
 
 **Step 2:** Rename the first 5 ".txt" files to ".yml"
 
 ```bash
-for i in {1..5}
-do
+for i in {1..5}; do
   mv "file0${i}.txt" "file0${i}.yml"
 done
 
@@ -45,7 +37,7 @@ done
 ls -l
 ```
 
-![Output 2](./output02.PNG)
+![Output 2](./output02.png)
 
 **Step 3:** List and print the latest 5 created files
 
@@ -53,4 +45,4 @@ ls -l
 ls -t | head -n 5
 ```
 
-![Output 3](./output03.PNG)
+![Output 3](./output03.png)
