@@ -1,6 +1,4 @@
-# Network Task
-
-## Task 2
+# 3. Network Task - II
 
 I have deployed an application in **guvi.com:9000**. Check whether port **9000** is open or not.
 

@@ -1,6 +1,4 @@
-# Network Task
-
-## Task 1
+# 3. Network Task - I
 
 **Step 1:** Get me the IP address of a particular domain (guvi.in)
 

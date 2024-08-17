@@ -1,6 +1,4 @@
-# File Creation Task
-
-## Task 1
+# 1. File Creation Task - I
 
 **Step 1:** Create "my_folder" directory &amp; navigate into it
 

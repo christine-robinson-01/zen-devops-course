@@ -1,6 +1,4 @@
-# File Permission Task
-
-## Task 1
+# 2. File Permission Task - I
 
 **Step 1:** Create a file with .txt extension.
 
