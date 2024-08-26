@@ -4,7 +4,7 @@ Establish a new directory, populate it with script files, initiate an empty repo
 
 **Step 1:** Create a new directory
 
-**Step 2:** Crete some script files
+**Step 2:** Create some script files
 
 **Step 3:** Initiate an empty repository on GitHub
 
