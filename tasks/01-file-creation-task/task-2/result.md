@@ -1,6 +1,8 @@
 # 1. File Creation Task - II
 
-**Step 1:** Create 20 files with ".txt" extension
+Create **20** files with **.txt** extensions and rename the first **5** files to **.yml** extension and print the latest created top **5** files among the total no of files".
+
+**Step 1:** Create files
 
 ```bash
 # Create a directory to hold the files

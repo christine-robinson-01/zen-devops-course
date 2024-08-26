@@ -53,7 +53,7 @@ echo "Replacement complete. Check $output_file for the updated content."
 3. Give it a shot.
 4. Welcome to the world of learning.
 5. This is where we give and take.
-6. We welcome new ideas and **learning** feedback.
+6. We welcome new ideas and learning feedback.
 7. Let's give it another go.
 8. A warm welcome to all.
 ```
